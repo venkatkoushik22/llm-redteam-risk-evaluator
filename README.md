@@ -6,6 +6,14 @@ A lightweight red-teaming dashboard and API for testing LLM responses against ad
 
 
 
+\## Dashboard Preview
+
+
+
+!\[LLM Red Team Risk Evaluator Dashboard](assets/dashboard.png)
+
+
+
 \## Features
 
 
