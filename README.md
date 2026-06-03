@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/dashboard.png" alt="LLM Red Team Risk Evaluator Dashboard" width="900">
-</p>
+
 
 <h1 align="center">LLM Red Team Risk Evaluator</h1>
 
@@ -22,6 +20,11 @@ Most LLM projects focus only on generating answers. This project focuses on what
 The evaluator runs adversarial prompts across common LLM risk categories and generates structured reports with pass/fail scoring, risk scores, and dashboard-based failure analysis.
 
 The current version uses a simulated LLM response layer for safe local testing, but the design allows real model APIs or local models to be plugged in later.
+
+
+<p align="center">
+  <img src="./assets/dashboard.png" alt="LLM Red Team Risk Evaluator Dashboard" width="900">
+</p>
 
 ## Features
 
