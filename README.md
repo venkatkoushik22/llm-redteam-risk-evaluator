@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/LLM%20Safety-Red%20Teaming-purple">
 </p>
 
- **Live Demo:** https://huggingface.co/spaces/Venkatkoushik22/llm-redteam-risk-evaluator
+**Live Demo:** [Try the app on Hugging Face Spaces](https://huggingface.co/spaces/Venkatkoushik22/llm-redteam-risk-evaluator)
 
 A lightweight red-teaming dashboard and API for testing LLM responses against adversarial prompts such as prompt injection, hallucination, privacy leakage, toxicity, and jailbreak attempts.
 
